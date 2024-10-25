@@ -1,2 +1,5 @@
-# MOFA2-Tinel-et-al
-Source code for MOFA2 analysis from Tinel et al. manuscript entitled "Multi-omic factor analyses uncover the cross-compartment complexity of biological processes in kidney transplantation"
+# Description
+
+[MOFA2](https://biofam.github.io/MOFA2/) (Multiple Omics Factor Analysis version 2) is an unsupervised statistical approach developed to explore and integrate multiple omics data sources such as genomics, transcriptomics, proteomics and metabolomics. In the present report, we used MOFA2 to uncover specific biological signatures associated with clinical, immunological and morphologically defined conditions by deciphering complex patterns and relationships between different molecular variables such as mRNA and miRNA from biopsies, blood and urine. 
+
+We collected data from blood, biopsy and urine samples of 131 kidney transplant recipients comprising six molecular datasets (also called views): 1 blood-derived epigenome (miRNA expression), 2 blood-derived transcriptomes (mRNA quantified by MicroArray, mRNA quantified by RNA sequencing), 1 biopsy-derived epigenome (miRNA expression), 1 biopsy-derived transcriptome (mRNA quantified by MicroArray) and 1 urine-derived selected gene set (mRNA quantified by RT-qPCR). In blood, a total of 58828 genes were measured by RNAseq, 54675 genes were detected by MicroArray and 758 miRNAs were measured by RT-qPCR. In biopsies, 54613 genes were assessed by MicroArray and 758 miRNAs were measured by RT-qPCR. In urine, 34 genes were measured by RT-qPCR.
